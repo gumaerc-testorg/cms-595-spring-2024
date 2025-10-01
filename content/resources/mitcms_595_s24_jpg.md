@@ -7,8 +7,8 @@ file_size: 157010
 file_type: image/jpeg
 image_metadata:
   caption: The rasperry pi keyboard being used here by a young student is one example
-    of educational technology. (Courtesy of [Jonathon Cutrer](https://flic.kr/p/2pCV67C)
-    on Flickr. Image is in the public domain.)
+    of educational technology. (Courtesy of {{% resource_link "62cebf15-577c-4bd6-b434-86d6dba2a281"
+    "Jonathon Cutrer" %}} on Flickr. Image is in the public domain.)
   credit: Courtesy of joncutrer on Flickr. Image is in the public domain.
   image-alt: A young student types on a raspberry pi RP400 keyboard.
 learning_resource_types: []
@@ -28,4 +28,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-The Raspberry Pi keyboard being used here by a young student is one example of educational technology. (Courtesy of [Jonathon Cutrer](https://flic.kr/p/2pCV67C) on Flickr. Image is in the public domain.)
+The Raspberry Pi keyboard being used here by a young student is one example of educational technology. (Courtesy of {{% resource_link "62cebf15-577c-4bd6-b434-86d6dba2a281" "Jonathon Cutrer" %}} on Flickr. Image is in the public domain.)
